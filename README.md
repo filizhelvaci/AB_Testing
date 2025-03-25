@@ -1,4 +1,4 @@
-# A/B Test Application - Bombabomba.com
+# A/B Test Application 
 
 ## Project Goal
 
